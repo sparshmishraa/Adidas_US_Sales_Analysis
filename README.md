@@ -18,7 +18,9 @@ Business Task- Business task is to find trends in sales volume and/or specific p
 
 These insights will be used to design appropriate sales strategy and helps in decision making.
 
-# DATA SOURCE: https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset
+# DATA SOURCE: 
+
+  https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset
 
 # DATA CLEANING & PREPARATION
 
