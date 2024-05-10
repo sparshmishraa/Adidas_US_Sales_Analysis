@@ -66,6 +66,24 @@ Hence, the data is clean.
 
 # INSIGHTS
 
+1. New York state has the highest share in sales at 7.137% or $64,229,039 followed by Florida at 6.588% or $59,283,714.
+
+2. If we see which sales method has recorded the highest sales or contribution in total sales, In-store sales contribute to 39.63% whereas Outlet contributes to 32.85% and Online at 27.52%.
+
+3. In 2020, April recorded the highest sales at $24,607,006 and December recorded the lowest at $ 8,026,527. In the year 2021, July and December had the highest sales at $78,334,681 and $77,815,430.
+
+4. If we compare 2020 and 2021 sales. we can clearly see that the 2021 sales are way more than 2020 sales. Even the lowest of 2021 sales is way more higher than 2020 highest sales.
+
+5. Seeing sales by each region, the West contributes to 30% which is the highest, next is the Northeast which has 20.7% share. We can see that these 2 regions contribute to 50% sales. Rest is divided into 3 
+   regions, lowest of these is Midwest at 15.09%.
+
+6. Last we see retailer sales, out of 6 retailers, West Gear has highest sales at $ 242,964,333 with 625,262 units followed by Foot Locker at $ 220,094,720 with 604,369 units while Walmart has lowest at $ 
+   74,558,410.
+
+7. Then through scatterplot we can see there is a positive correlation between price and units sold. As the demand increases the price of the product increases.
+
+8. Next we see the average price per unit by city which shows that Seattle has the highest price per unit at $67.65 while Salt lake city has the lowest price per unit at $ 26.83.
+
 
 
 
