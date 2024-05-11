@@ -47,23 +47,6 @@ Hence, the data is clean.
 2. Also it will be better if we further classify products on the basis of gender and the type of product- for that i will create a product and gender column and extract the relevant data from the product column.
 
 
-# DATA ANALYSIS
-
-1. I created a column chart to check month wise sales.
-
-2. Then I created a pie chart to see the share of regions in total sales.
-
-3. Another pie chart showing total sales gender wise.
-
-4. Then I created a combo chart showing sales of each retailer with average profit margin.
-
-5. After that I created an area chart to show sales of each year by product.
-
-6. Bar chart is created to show the average price per unit by state.
-
-7. Correlation between price and sales. For better representation I created a scatter plot to check if there is any correlation between them.
-
-
 # INSIGHTS
 
 1. New York state has the highest share in sales at 7.137% or $64,229,039 followed by Florida at 6.588% or $59,283,714.
