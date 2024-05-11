@@ -82,9 +82,6 @@ Hence, the data is clean.
 
 7. Then through scatterplot we can see there is a positive correlation between price and units sold. As the demand increases the price of the product increases.
 
-8. Next we see the average price per unit by city which shows that Seattle has the highest price per unit at $67.65 while Salt lake city has the lowest price per unit at $ 26.83.
-
-
 
 
 
